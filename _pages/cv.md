@@ -7,58 +7,50 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my full CV (PDF)](/files/Nazzari_CV.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Positions
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Postdoctoral Researcher in Political Science**, Department of Law, University of Sassari, April 2026 – present
+- **Postdoctoral Research Fellow in Political Science**, Department of Law, University of Sassari, March 2024 – March 2026
+- **Visiting PhD Student**, Department of Criminology and Criminal Justice, University of Maryland, February 2023 – June 2023
+- **Researcher**, Transcrime – Università Cattolica del Sacro Cuore, November 2020 – February 2024
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+- **International PhD in Criminology**, Università Cattolica del Sacro Cuore, Milan, 2020 – 2024
+- **Master's Degree in Public Policy (PoliSi)**, Università Cattolica del Sacro Cuore, Milan, 2018 – 2020, 110/110 cum laude
+- **Bachelor's Degree in Sociology and Criminology**, University "Gabriele D'Annunzio" of Chieti-Pescara, 2015 – 2018, 110/110 cum laude
+
+## Editorial and peer review
+
+---
+
+- Editorial Board Member, [*Evidence Base: Criminal Justice Research, Policy & Action*](https://www.tandfonline.com/journals/rebj20) (Taylor & Francis), July 2026 – present
+- Peer reviewer for: BMC Psychology, Computers in Human Behavior Reports, Crime, Law and Social Change, Deviant Behavior, European Journal of Criminology, European Journal on Criminal Policy and Research, Global Crime, Humanities and Social Sciences Communications, Journal of Economic Criminology, Journal of Financial Crime, Journal of Money Laundering Control, Nature Communications, Police Practice and Research, Scientific Reports, Security Journal, SN Social Sciences, Social Policy and Society
+
+## Memberships
+
+---
+
+- Founder and Member, Money Laundering Research Network (MLRN)
+- International Society of Economic Criminology (ISEC), since March 2026
+- Centre for Applied Criminal Justice and Policing Research, Edge Hill University
+- Steering Committee, International Migration Conference (Mother Teresa University, Skopje)
+- Italian Political Science Association (SISP)
+- American Society of Criminology (ASC)
+- Working Group 3 "Responses to Illicit Trade", Globalization, Illicit Trade, Sustainability and Security (GLITTS)
+
+## Skills
+
+---
+
+- Statistical analysis and data modelling: R, Python, Stata
+- Geospatial analysis: QGIS
+- Social network analysis: R, Python, UCINET
+- Web scraping and automated data collection: R, Python
+- Languages: Italian (native), English (C1)
