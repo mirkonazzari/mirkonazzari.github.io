@@ -22,7 +22,7 @@ repository               : "mirkonazzari/mirkonazzari.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Mirko Nazzari"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in Political Science"
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=L2uT2-0AAAAJ"
   impactstory      : # URL
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-0019-3642"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
